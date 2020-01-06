@@ -12,8 +12,9 @@ header {
   text-align: center 
 }
 #featured-property p {
-  font-size: 10px
-  margin-right: 
+  font-size: 10px;
+  margin-right: auto;
+  margin-left: auto
 }
 
 nav a {
